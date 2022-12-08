@@ -1,0 +1,209 @@
+
+ID_01.png
+size: 316,46
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B_L_antenna
+  rotate: true
+  xy: 239, 2
+  size: 22, 9
+  orig: 22, 11
+  offset: 0, 0
+  index: -1
+B_L_leg
+  rotate: true
+  xy: 37, 20
+  size: 24, 34
+  orig: 24, 34
+  offset: 0, 0
+  index: -1
+B_L_mid_leg
+  rotate: true
+  xy: 295, 26
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+B_L_top_leg
+  rotate: true
+  xy: 44, 5
+  size: 13, 27
+  orig: 13, 28
+  offset: 0, 1
+  index: -1
+B_L_wing_1
+  rotate: false
+  xy: 209, 2
+  size: 28, 13
+  orig: 28, 13
+  offset: 0, 0
+  index: -1
+B_L_wing_2
+  rotate: false
+  xy: 265, 33
+  size: 28, 11
+  orig: 28, 11
+  offset: 0, 0
+  index: -1
+B_R_antenna
+  rotate: true
+  xy: 184, 2
+  size: 12, 9
+  orig: 12, 10
+  offset: 0, 0
+  index: -1
+B_R_brown
+  rotate: false
+  xy: 195, 6
+  size: 6, 8
+  orig: 6, 10
+  offset: 0, 1
+  index: -1
+B_R_leg
+  rotate: true
+  xy: 145, 20
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1
+B_R_mid_leg
+  rotate: true
+  xy: 262, 11
+  size: 9, 26
+  orig: 10, 26
+  offset: 0, 0
+  index: -1
+B_R_top_leg
+  rotate: false
+  xy: 152, 7
+  size: 17, 11
+  orig: 18, 12
+  offset: 0, 1
+  index: -1
+B_R_wing_1
+  rotate: true
+  xy: 109, 24
+  size: 20, 34
+  orig: 20, 34
+  offset: 0, 0
+  index: -1
+B_R_wing_2
+  rotate: true
+  xy: 109, 2
+  size: 20, 28
+  orig: 20, 28
+  offset: 0, 0
+  index: -1
+B_body
+  rotate: false
+  xy: 209, 17
+  size: 28, 27
+  orig: 28, 27
+  offset: 0, 0
+  index: -1
+F_Body_Grasshopper
+  rotate: true
+  xy: 177, 16
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1
+F_L_antenna
+  rotate: false
+  xy: 139, 2
+  size: 11, 16
+  orig: 12, 18
+  offset: 1, 1
+  index: -1
+F_L_bot_leg
+  rotate: true
+  xy: 203, 6
+  size: 8, 4
+  orig: 8, 4
+  offset: 0, 0
+  index: -1
+F_L_brown
+  rotate: true
+  xy: 262, 3
+  size: 6, 11
+  orig: 6, 11
+  offset: 0, 0
+  index: -1
+F_L_up_leg
+  rotate: true
+  xy: 295, 12
+  size: 12, 19
+  orig: 12, 19
+  offset: 0, 0
+  index: -1
+F_L_wing_big
+  rotate: false
+  xy: 2, 18
+  size: 33, 26
+  orig: 33, 26
+  offset: 0, 0
+  index: -1
+F_L_wing_small
+  rotate: false
+  xy: 73, 23
+  size: 34, 21
+  orig: 34, 22
+  offset: 0, 0
+  index: -1
+F_R_antenna
+  rotate: false
+  xy: 171, 2
+  size: 11, 12
+  orig: 12, 13
+  offset: 0, 1
+  index: -1
+F_R_bot_leg
+  rotate: true
+  xy: 250, 3
+  size: 21, 10
+  orig: 21, 10
+  offset: 0, 0
+  index: -1
+F_R_brown
+  rotate: true
+  xy: 97, 7
+  size: 14, 10
+  orig: 14, 11
+  offset: 0, 1
+  index: -1
+F_R_mid_leg
+  rotate: false
+  xy: 2, 2
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+F_R_up_leg
+  rotate: false
+  xy: 23, 2
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+F_R_wing_big
+  rotate: false
+  xy: 239, 26
+  size: 24, 18
+  orig: 24, 18
+  offset: 0, 0
+  index: -1
+F_R_wing_small
+  rotate: false
+  xy: 73, 2
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 265, 22
+  size: 28, 9
+  orig: 28, 9
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,734 @@
+
+ID_Hoader.png
+size: 2033,1985
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Hoarder_walk/walk/Walk_35_Back_00001
+  rotate: false
+  xy: 1353, 35
+  size: 222, 223
+  orig: 390, 455
+  offset: 104, 143
+  index: -1
+Hoarder_walk/walk/Walk_35_Back_00002
+  rotate: false
+  xy: 1775, 800
+  size: 223, 221
+  orig: 390, 455
+  offset: 106, 136
+  index: -1
+Hoarder_walk/walk/Walk_35_Back_00003
+  rotate: true
+  xy: 1553, 1055
+  size: 224, 218
+  orig: 390, 455
+  offset: 107, 133
+  index: -1
+Hoarder_walk/walk/Walk_35_Back_00004
+  rotate: true
+  xy: 476, 2
+  size: 225, 213
+  orig: 390, 455
+  offset: 106, 132
+  index: -1
+Hoarder_walk/walk/Walk_35_Back_00005
+  rotate: true
+  xy: 1336, 806
+  size: 225, 211
+  orig: 390, 455
+  offset: 106, 131
+  index: -1
+Hoarder_walk/walk/Walk_35_Back_00006
+  rotate: true
+  xy: 1773, 1059
+  size: 224, 210
+  orig: 390, 455
+  offset: 105, 130
+  index: -1
+Hoarder_walk/walk/Walk_35_Back_00007
+  rotate: false
+  xy: 1767, 1285
+  size: 224, 211
+  orig: 390, 455
+  offset: 104, 129
+  index: -1
+Hoarder_walk/walk/Walk_35_Back_00008
+  rotate: true
+  xy: 1746, 1761
+  size: 222, 214
+  orig: 390, 455
+  offset: 104, 128
+  index: -1
+Hoarder_walk/walk/Walk_35_Back_00009
+  rotate: false
+  xy: 1771, 580
+  size: 222, 218
+  orig: 390, 455
+  offset: 102, 127
+  index: -1
+Hoarder_walk/walk/Walk_35_Back_00010
+  rotate: true
+  xy: 1771, 360
+  size: 218, 222
+  orig: 390, 455
+  offset: 103, 126
+  index: -1
+Hoarder_walk/walk/Walk_35_Back_00011
+  rotate: false
+  xy: 1744, 1515
+  size: 216, 228
+  orig: 390, 455
+  offset: 104, 124
+  index: -1
+Hoarder_walk/walk/Walk_35_Back_00012
+  rotate: false
+  xy: 1119, 784
+  size: 215, 232
+  orig: 390, 455
+  offset: 105, 124
+  index: -1
+Hoarder_walk/walk/Walk_35_Back_00013
+  rotate: false
+  xy: 886, 246
+  size: 216, 238
+  orig: 390, 455
+  offset: 105, 122
+  index: -1
+Hoarder_walk/walk/Walk_35_Back_00014
+  rotate: false
+  xy: 656, 998
+  size: 218, 242
+  orig: 390, 455
+  offset: 105, 121
+  index: -1
+Hoarder_walk/walk/Walk_35_Back_00015
+  rotate: false
+  xy: 223, 475
+  size: 219, 244
+  orig: 390, 455
+  offset: 106, 120
+  index: -1
+Hoarder_walk/walk/Walk_35_Back_00016
+  rotate: false
+  xy: 631, 1487
+  size: 220, 246
+  orig: 390, 455
+  offset: 107, 119
+  index: -1
+Hoarder_walk/walk/Walk_35_Back_00017
+  rotate: false
+  xy: 2, 474
+  size: 219, 245
+  orig: 390, 455
+  offset: 108, 118
+  index: -1
+Hoarder_walk/walk/Walk_35_Back_00018
+  rotate: false
+  xy: 2, 227
+  size: 218, 245
+  orig: 390, 455
+  offset: 109, 117
+  index: -1
+Hoarder_walk/walk/Walk_35_Back_00019
+  rotate: false
+  xy: 638, 1242
+  size: 220, 243
+  orig: 390, 455
+  offset: 109, 116
+  index: -1
+Hoarder_walk/walk/Walk_35_Back_00020
+  rotate: false
+  xy: 670, 757
+  size: 221, 239
+  orig: 390, 455
+  offset: 108, 116
+  index: -1
+Hoarder_walk/walk/Walk_35_Back_00021
+  rotate: false
+  xy: 1104, 253
+  size: 218, 237
+  orig: 390, 455
+  offset: 105, 117
+  index: -1
+Hoarder_walk/walk/Walk_35_Back_00022
+  rotate: false
+  xy: 1136, 14
+  size: 215, 237
+  orig: 390, 455
+  offset: 101, 118
+  index: -1
+Hoarder_walk/walk/Walk_35_Back_00023
+  rotate: false
+  xy: 922, 6
+  size: 212, 238
+  orig: 390, 455
+  offset: 98, 120
+  index: -1
+Hoarder_walk/walk/Walk_35_Back_00024
+  rotate: false
+  xy: 1301, 1744
+  size: 210, 239
+  orig: 390, 455
+  offset: 95, 122
+  index: -1
+Hoarder_walk/walk/Walk_35_Back_00025
+  rotate: false
+  xy: 1091, 1742
+  size: 208, 241
+  orig: 390, 455
+  offset: 93, 124
+  index: -1
+Hoarder_walk/walk/Walk_35_Back_00026
+  rotate: false
+  xy: 444, 484
+  size: 207, 244
+  orig: 390, 455
+  offset: 92, 126
+  index: -1
+Hoarder_walk/walk/Walk_35_Back_00027
+  rotate: false
+  xy: 222, 227
+  size: 207, 245
+  orig: 390, 455
+  offset: 91, 128
+  index: -1
+Hoarder_walk/walk/Walk_35_Back_00028
+  rotate: false
+  xy: 428, 1235
+  size: 208, 247
+  orig: 390, 455
+  offset: 91, 129
+  index: -1
+Hoarder_walk/walk/Walk_35_Back_00029
+  rotate: false
+  xy: 419, 1484
+  size: 210, 248
+  orig: 390, 455
+  offset: 92, 130
+  index: -1
+Hoarder_walk/walk/Walk_35_Back_00030
+  rotate: false
+  xy: 215, 976
+  size: 215, 247
+  orig: 390, 455
+  offset: 92, 132
+  index: -1
+Hoarder_walk/walk/Walk_35_Back_00031
+  rotate: false
+  xy: 651, 1737
+  size: 218, 246
+  orig: 390, 455
+  offset: 94, 134
+  index: -1
+Hoarder_walk/walk/Walk_35_Back_00032
+  rotate: false
+  xy: 432, 990
+  size: 222, 243
+  orig: 390, 455
+  offset: 96, 136
+  index: -1
+Hoarder_walk/walk/Walk_35_Back_00033
+  rotate: true
+  xy: 2, 2
+  size: 223, 238
+  orig: 390, 455
+  offset: 99, 139
+  index: -1
+Hoarder_walk/walk/Walk_35_Back_00034
+  rotate: true
+  xy: 242, 2
+  size: 223, 232
+  orig: 390, 455
+  offset: 102, 141
+  index: -1
+Hoarder_walk/walk/Walk_35_Back_00035
+  rotate: false
+  xy: 1547, 283
+  size: 222, 223
+  orig: 390, 455
+  offset: 104, 143
+  index: -1
+Hoarder_walk/walk/Walk_35_Front_00001
+  rotate: false
+  xy: 1540, 580
+  size: 224, 224
+  orig: 390, 455
+  offset: 74, 129
+  index: -1
+Hoarder_walk/walk/Walk_35_Front_00002
+  rotate: true
+  xy: 1095, 536
+  size: 232, 221
+  orig: 390, 455
+  offset: 71, 124
+  index: -1
+Hoarder_walk/walk/Walk_35_Front_00003
+  rotate: true
+  xy: 653, 504
+  size: 240, 217
+  orig: 390, 455
+  offset: 69, 124
+  index: -1
+Hoarder_walk/walk/Walk_35_Front_00004
+  rotate: true
+  xy: 234, 730
+  size: 244, 213
+  orig: 390, 455
+  offset: 68, 127
+  index: -1
+Hoarder_walk/walk/Walk_35_Front_00005
+  rotate: true
+  xy: 439, 1735
+  size: 248, 210
+  orig: 390, 455
+  offset: 67, 132
+  index: -1
+Hoarder_walk/walk/Walk_35_Front_00006
+  rotate: true
+  xy: 209, 1479
+  size: 250, 208
+  orig: 390, 455
+  offset: 67, 136
+  index: -1
+Hoarder_walk/walk/Walk_35_Front_00007
+  rotate: true
+  xy: 2, 1477
+  size: 252, 205
+  orig: 390, 455
+  offset: 66, 141
+  index: -1
+Hoarder_walk/walk/Walk_35_Front_00008
+  rotate: true
+  xy: 2, 1223
+  size: 252, 203
+  orig: 390, 455
+  offset: 66, 146
+  index: -1
+Hoarder_walk/walk/Walk_35_Front_00009
+  rotate: true
+  xy: 2, 1731
+  size: 252, 207
+  orig: 390, 455
+  offset: 66, 146
+  index: -1
+Hoarder_walk/walk/Walk_35_Front_00010
+  rotate: true
+  xy: 2, 970
+  size: 251, 211
+  orig: 390, 455
+  offset: 66, 144
+  index: -1
+Hoarder_walk/walk/Walk_35_Front_00011
+  rotate: true
+  xy: 207, 1225
+  size: 250, 219
+  orig: 390, 455
+  offset: 66, 140
+  index: -1
+Hoarder_walk/walk/Walk_35_Front_00012
+  rotate: true
+  xy: 211, 1734
+  size: 249, 226
+  orig: 390, 455
+  offset: 66, 135
+  index: -1
+Hoarder_walk/walk/Walk_35_Front_00013
+  rotate: true
+  xy: 2, 721
+  size: 247, 230
+  orig: 390, 455
+  offset: 66, 131
+  index: -1
+Hoarder_walk/walk/Walk_35_Front_00014
+  rotate: true
+  xy: 651, 239
+  size: 243, 233
+  orig: 390, 455
+  offset: 67, 128
+  index: -1
+Hoarder_walk/walk/Walk_35_Front_00015
+  rotate: true
+  xy: 860, 1249
+  size: 241, 232
+  orig: 390, 455
+  offset: 67, 127
+  index: -1
+Hoarder_walk/walk/Walk_35_Front_00016
+  rotate: true
+  xy: 1513, 1745
+  size: 238, 231
+  orig: 390, 455
+  offset: 67, 126
+  index: -1
+Hoarder_walk/walk/Walk_35_Front_00017
+  rotate: true
+  xy: 691, 3
+  size: 234, 229
+  orig: 390, 455
+  offset: 68, 124
+  index: -1
+Hoarder_walk/walk/Walk_35_Front_00018
+  rotate: false
+  xy: 1323, 1033
+  size: 228, 230
+  orig: 390, 455
+  offset: 70, 121
+  index: -1
+Hoarder_walk/walk/Walk_35_Front_00019
+  rotate: false
+  xy: 1519, 1511
+  size: 223, 232
+  orig: 390, 455
+  offset: 71, 119
+  index: -1
+Hoarder_walk/walk/Walk_35_Front_00020
+  rotate: false
+  xy: 1317, 1265
+  size: 227, 234
+  orig: 390, 455
+  offset: 68, 119
+  index: -1
+Hoarder_walk/walk/Walk_35_Front_00021
+  rotate: false
+  xy: 893, 770
+  size: 224, 236
+  orig: 390, 455
+  offset: 70, 121
+  index: -1
+Hoarder_walk/walk/Walk_35_Front_00022
+  rotate: false
+  xy: 872, 517
+  size: 221, 238
+  orig: 390, 455
+  offset: 73, 123
+  index: -1
+Hoarder_walk/walk/Walk_35_Front_00023
+  rotate: false
+  xy: 876, 1008
+  size: 221, 239
+  orig: 390, 455
+  offset: 77, 125
+  index: -1
+Hoarder_walk/walk/Walk_35_Front_00024
+  rotate: false
+  xy: 1297, 1501
+  size: 220, 239
+  orig: 390, 455
+  offset: 81, 127
+  index: -1
+Hoarder_walk/walk/Walk_35_Front_00025
+  rotate: false
+  xy: 1075, 1497
+  size: 220, 241
+  orig: 390, 455
+  offset: 83, 129
+  index: -1
+Hoarder_walk/walk/Walk_35_Front_00026
+  rotate: false
+  xy: 853, 1492
+  size: 220, 243
+  orig: 390, 455
+  offset: 85, 131
+  index: -1
+Hoarder_walk/walk/Walk_35_Front_00027
+  rotate: false
+  xy: 871, 1740
+  size: 218, 243
+  orig: 390, 455
+  offset: 87, 133
+  index: -1
+Hoarder_walk/walk/Walk_35_Front_00028
+  rotate: false
+  xy: 431, 229
+  size: 218, 244
+  orig: 390, 455
+  offset: 87, 134
+  index: -1
+Hoarder_walk/walk/Walk_35_Front_00029
+  rotate: false
+  xy: 449, 746
+  size: 219, 242
+  orig: 390, 455
+  offset: 85, 136
+  index: -1
+Hoarder_walk/walk/Walk_35_Front_00030
+  rotate: false
+  xy: 1094, 1256
+  size: 221, 239
+  orig: 390, 455
+  offset: 82, 138
+  index: -1
+Hoarder_walk/walk/Walk_35_Front_00031
+  rotate: false
+  xy: 1099, 1018
+  size: 222, 236
+  orig: 390, 455
+  offset: 79, 138
+  index: -1
+Hoarder_walk/walk/Walk_35_Front_00032
+  rotate: false
+  xy: 1324, 260
+  size: 221, 232
+  orig: 390, 455
+  offset: 77, 137
+  index: -1
+Hoarder_walk/walk/Walk_35_Front_00033
+  rotate: false
+  xy: 1546, 1281
+  size: 219, 228
+  orig: 390, 455
+  offset: 76, 136
+  index: -1
+Hoarder_walk/walk/Walk_35_Front_00034
+  rotate: false
+  xy: 1318, 556
+  size: 220, 226
+  orig: 390, 455
+  offset: 75, 133
+  index: -1
+Hoarder_walk/walk/Walk_35_Front_00035
+  rotate: false
+  xy: 1549, 807
+  size: 224, 224
+  orig: 390, 455
+  offset: 74, 129
+  index: -1
+char_00_arm_l
+  rotate: true
+  xy: 1993, 1456
+  size: 40, 37
+  orig: 45, 37
+  offset: 5, 0
+  index: -1
+char_00_arm_r
+  rotate: false
+  xy: 1962, 1647
+  size: 52, 34
+  orig: 52, 34
+  offset: 0, 0
+  index: -1
+char_00_bag
+  rotate: false
+  xy: 1771, 218
+  size: 159, 140
+  orig: 159, 140
+  offset: 0, 0
+  index: -1
+char_00_bag_1
+  rotate: true
+  xy: 1993, 1388
+  size: 32, 35
+  orig: 34, 37
+  offset: 1, 1
+  index: -1
+char_00_bag_2
+  rotate: false
+  xy: 1307, 494
+  size: 59, 40
+  orig: 60, 43
+  offset: 0, 1
+  index: -1
+char_00_bag_3
+  rotate: true
+  xy: 1962, 1898
+  size: 85, 63
+  orig: 86, 64
+  offset: 1, 0
+  index: -1
+char_00_bag_4
+  rotate: false
+  xy: 1245, 494
+  size: 60, 40
+  orig: 60, 42
+  offset: 0, 1
+  index: -1
+char_00_bag_5
+  rotate: false
+  xy: 1494, 508
+  size: 72, 46
+  orig: 72, 46
+  offset: 0, 0
+  index: -1
+char_00_bag_6
+  rotate: false
+  xy: 1985, 1023
+  size: 39, 39
+  orig: 39, 40
+  offset: 0, 0
+  index: -1
+char_00_bag_6_1
+  rotate: true
+  xy: 1068, 491
+  size: 24, 19
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+char_00_bag_6_2
+  rotate: true
+  xy: 1453, 507
+  size: 47, 39
+  orig: 48, 42
+  offset: 1, 2
+  index: -1
+char_00_bag_Bot
+  rotate: true
+  xy: 1368, 505
+  size: 49, 83
+  orig: 49, 83
+  offset: 0, 0
+  index: -1
+char_00_bag_l
+  rotate: false
+  xy: 1985, 1238
+  size: 46, 45
+  orig: 48, 47
+  offset: 2, 2
+  index: -1
+char_00_bag_necklace
+  rotate: true
+  xy: 1089, 492
+  size: 23, 19
+  orig: 23, 19
+  offset: 0, 0
+  index: -1
+char_00_bag_necklace_bot
+  rotate: false
+  xy: 1540, 557
+  size: 45, 21
+  orig: 46, 21
+  offset: 0, 0
+  index: -1
+char_00_bag_r
+  rotate: false
+  xy: 1110, 492
+  size: 57, 42
+  orig: 57, 42
+  offset: 0, 0
+  index: -1
+char_00_body
+  rotate: true
+  xy: 1962, 1817
+  size: 79, 60
+  orig: 79, 60
+  offset: 0, 0
+  index: -1
+char_00_cloth
+  rotate: true
+  xy: 1993, 1422
+  size: 32, 36
+  orig: 33, 37
+  offset: 0, 1
+  index: -1
+char_00_forearm_l
+  rotate: false
+  xy: 1985, 1064
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+char_00_forearm_l_2
+  rotate: true
+  xy: 1985, 1154
+  size: 40, 45
+  orig: 40, 45
+  offset: 0, 0
+  index: -1
+char_00_forearm_l_bot
+  rotate: true
+  xy: 990, 489
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1
+char_00_forearm_l_bot1
+  rotate: false
+  xy: 965, 488
+  size: 23, 27
+  orig: 23, 27
+  offset: 0, 0
+  index: -1
+char_00_forearm_r_1
+  rotate: true
+  xy: 872, 486
+  size: 29, 23
+  orig: 29, 23
+  offset: 0, 0
+  index: -1
+char_00_forearm_r_2
+  rotate: true
+  xy: 1985, 1109
+  size: 43, 44
+  orig: 43, 46
+  offset: 0, 1
+  index: -1
+char_00_hand_1
+  rotate: false
+  xy: 1962, 1571
+  size: 51, 74
+  orig: 53, 76
+  offset: 1, 1
+  index: -1
+char_00_hand_l
+  rotate: false
+  xy: 1169, 492
+  size: 39, 42
+  orig: 39, 45
+  offset: 0, 2
+  index: -1
+char_00_hand_l_1
+  rotate: true
+  xy: 1210, 493
+  size: 41, 33
+  orig: 41, 33
+  offset: 0, 0
+  index: -1
+char_00_hand_r
+  rotate: true
+  xy: 1985, 1196
+  size: 40, 46
+  orig: 41, 46
+  offset: 0, 0
+  index: -1
+char_00_leg_l
+  rotate: true
+  xy: 1962, 1683
+  size: 47, 57
+  orig: 47, 58
+  offset: 0, 1
+  index: -1
+char_00_leg_l1
+  rotate: true
+  xy: 1962, 1732
+  size: 47, 58
+  orig: 47, 58
+  offset: 0, 0
+  index: -1
+char_00_leg_l2
+  rotate: true
+  xy: 1962, 1781
+  size: 34, 59
+  orig: 34, 59
+  offset: 0, 0
+  index: -1
+char_00_leg_r
+  rotate: true
+  xy: 1015, 490
+  size: 25, 51
+  orig: 27, 55
+  offset: 1, 2
+  index: -1
+char_00_neck
+  rotate: true
+  xy: 1962, 1498
+  size: 71, 51
+  orig: 71, 53
+  offset: 0, 1
+  index: -1
+shadow
+  rotate: false
+  xy: 897, 488
+  size: 66, 27
+  orig: 66, 27
+  offset: 0, 0
+  index: -1
